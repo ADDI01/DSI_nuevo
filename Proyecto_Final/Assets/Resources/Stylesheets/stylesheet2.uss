@@ -1,0 +1,12 @@
+.subsection:hover {
+    border-left-color: rgb(121, 241, 161);
+    border-right-color: rgb(121, 241, 161);
+    border-top-color: rgb(121, 241, 161);
+    border-bottom-color: rgb(121, 241, 161);
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    -unity-background-image-tint-color: rgb(80, 120, 80);
+    background-color: rgba(0, 0, 0, 0.31);
+}
